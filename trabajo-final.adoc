@@ -1,3 +1,7 @@
 # Trabajo final
 
 Hola soy tu trabajo final y vas a sacar un 10 conmigo.
+
+## Anexos
+
+Mi trabajo final va a incluir muchos anexos y documentación complementaria. 
